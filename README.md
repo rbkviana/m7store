@@ -15,4 +15,3 @@ Projeto desenvolvido no DevClub
 <br>
 
 
-Visite:  https://rbkviana.github.io/m7store/
